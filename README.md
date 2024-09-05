@@ -99,7 +99,7 @@ python model_evaluation.py
 - Clone the repository:
 
 ```bash
-git clone https://github.com/aHereHere/hackx.git
+git clone (https://github.com/smreetyyadav37/Natural-disaster-prediction.git)
 ```
 - Navigate to the project directory:
 
