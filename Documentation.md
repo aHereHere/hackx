@@ -1,4 +1,4 @@
-# MUJ HackX
+# WOODPECKER HACKATHON
 
 ## AI based Natural Disaster Prediction & Response System
 
@@ -82,13 +82,6 @@ python model_evaluation.py
 ### Instructions
 - Details and implementation will be provided in future updates.
 
-## 6. Documentation
-
-### Description
-- Comprehensive documentation of the project, including code, methodologies, and results.
-
-### Files
-- `README.md` - Overview and instructions.
 
 ## Setup and Installation
 
@@ -99,12 +92,12 @@ python model_evaluation.py
 - Clone the repository:
 
 ```bash
-git clone (https://github.com/smreetyyadav37/Natural-disaster-prediction.git)
+git clone https://github.com/smreetyyadav37/woodpecker.git
 ```
 - Navigate to the project directory:
 
 ```bash
-cd hackx
+cd your-repository
 ```
 
 - Install dependencies:
